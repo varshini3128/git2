@@ -1,0 +1,350 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Two Column Layout</title>
+  <link rel="stylesheet" href="n2.css" />
+</head>
+<body>
+
+    <table>
+
+        <tr>
+            <p>
+                <center>
+                    English|
+                    தமிழ்|
+                    বাংলা|
+                    മലയാളം|
+                    ગુજરાતી|
+                    हिंदी|
+                    मराठी|
+                    Business|
+                    बिज़नेस
+            </p>
+            </center>
+
+
+            <center>
+                <img src="indian-express-logo-n.svg">
+            </center>
+
+            <center>
+                <h2>journalism of courage</h2>
+            </center>
+            <hr>
+
+        </tr>
+
+        <tr>
+
+    </table>
+
+    <div class="a" style="text-decoration: none;">
+        <a href="https://indianexpress.com/?ref=l1_home" style="color: red;">Home</a>
+        <a href="https://indianexpress.com/s">epaper</a>
+        <a href="https://indianexpress.com/">premium</a>
+        <a href="https://indianexpress.com/section/upsc-current-affairs/?ref=l1_home">upsc</a>
+        <a href="https://indianexpress.com/politics/?ref=l1_home">politics</a>
+        <a href="https://indianexpress.com/my-express/?ref=l1_home">myexpress</a>
+        <a href="https://indianexpress.com/section/entertainment/?ref=l1_home"
+            style="background-color: rgba(241, 15, 15, 0.76);font-family:cursive; padding: 7px;">screen</a>
+        <a href="https://indianexpress.com/section/explained/?ref=l1_home">explained</a>
+        <a href="https://indianexpress.com/section/opinion/?ref=l1_section">opinion</a>
+        <a href="https://indianexpress.com/section/business/?ref=l1_home">business</a>
+        <a href="https://indianexpress.com/section/sports/?ref=l1_home">sports</a>
+        <a href="https://indianexpress.com/section/cities/">cities</a>
+        <a href="https://indianexpress.com/section/lifestyle/">lifestyle</a>
+        <a href="https://indianexpress.com/subscribe/?ref=sub_topHeader"
+            style="background-color: gold; padding:7px;border-radius: 2px;">SUBSCRIBE</a>
+        <a href="https://indianexpress.com/my-account/"
+            style="border: 2px ; border-radius: 2px; background-color: rgba(128, 128, 128, 0.349); padding: 7px;">myaccount</a>
+    </div>
+    <hr>
+    <tr>
+        <div class="a" style="text-decoration: none;position: relative;">
+            <a href="#" style="color: rgb(235, 22, 22);">TRENDING</a>
+            <a href="https://indianexpress.com/article/entertainment/bollywood/housefull-5-movie-review-rating-release-live-updates-akshay-kumar-abhishek-bachchan-10051014/"
+                style="background-color:rgba(128, 128, 128, 0.301); padding: 7px;border-radius: 5px;">housefull 5
+                review</a>
+            <a href="https://indianexpress.com/archive/?ref=l2_home"
+                style="background-color:rgb(194, 35, 35); padding: 7px;border-radius: 5px;">express archives</a>
+            <a href="https://indianexpress.com/puzzles-and-games/mini-crossword/?ref=l2_home"
+                style="background-color:rgba(128, 128, 128, 0.301); padding: 7px;border-radius: 5px;">mini crossword</a>
+            <a href="https://indianexpress.com/shorts/?ref=l2_nav?ref=l2_home"
+                style="background-color:rgba(128, 128, 128, 0.301); padding: 7px;border-radius: 5px;">express shorts</a>
+            <a href="https://indianexpress.com/audio/3-things/bengaluru-stampede-tiger-safari-in-jharkhand-mahua-moitras-wedding/1005"
+                style="background-color:rgba(128, 128, 128, 0.301); padding: 7px;border-radius: 5px;"><img
+                    src="podcast.png" width="30px; ">podcast</a>
+            <a href="https://indianexpress.com/videos/"
+                style="background-color:rgba(128, 128, 128, 0.301); padding: 7px;border-radius: 5px; "><img
+                    src="video.png" width="20px">videos</a>
+            <a href="https://indianexpress.com/audio/3-things/bengaluru-stampede-tiger-safari-in-jharkhand-mahua-moitras-wedding/1005"
+                style="background-color:rgba(128, 128, 128, 0.301); padding: 7px;border-radius: 5px;">health&we1lness</a>
+        </div>
+        <hr>
+        <div class="top-bar">
+            <div class="date" style="position: relative;"><img src="add1.jpeg"></div>
+            <div class="edition"><img src="news1.png"><br>
+              <div class="top-bar">
+<h1 >Haryana youth handcuffed in<br> Newark airport video tried to enter US illegally<br>
+<img src="top4.avif" width="300px"><br>
+Sonam’s brother, Govind, reached Raja's home and broke down as he embraced his mother, Uma.<br>
+The meeting was inevitable, yet neither family could have prepared for the raw emotion that would pour forth when they finally faced each other.
+
+On Wednesday, just weeks after the honeymoon that turned fatal for Raja Raghuvanshi, the family of his bride and now the accused, Sonam Raghuvanshi, met Raja’s family in Indore.
+
+Sonam’s brother, Govind, reached Raja’s home and broke down as he embraced his mother, Uma.</h1>
+
+<h3 style="font-size: larger;">Haryana youth handcuffed in Newark airport video tried to enter US illegally<hr>
+Pakistan secures key roles in UNSC committees: Should India worry?<hr>
+From July, no Tatkal railway ticket booking without Aadhaar authentication<hr>
+‘State can’t object': SC grants bail to Uttarakhand man jailed for interfaith marriage<hr>
+A T20 for the Global South: The case for an India-led bloc against terrorism<hr>
+</h3><div><img src="add3.jpeg"><br><br>
+<img src="add4.gif">
+<img src="add6.avif">
+</div>
+</div>
+<img src="add3.webp"><br>
+<h2>
+Expert-approved tips to get rid of centipede or kaankhajura
+centipede
+Mira Kapoor says she has been sleeping 'like a baby' for six months, all thanks to this concoction
+Mira Kapoor
+6 things to have on an empty stomach to control insulin resistance
+insulin resistance
+When Priyanka Chopra recalled burning a high school pictures, regretting later: 'Chain dresses, and low-waist jeans and thongs were showing...'
+Priyanka Chopra
+'The shame isn’t ours’: Queer voices on shedding self-doubt, reclaiming love and pride in 2025
+queer love
+Shubhanshu Shukla expected to carry aamras, halwa to space as part of Axiom Mission 4; sister refutes claim dishes are homemade: 'It is just impossible'
+Shubhanshu Shukla
+Here's what happens to the body when you meditate for 5 minutes daily
+What are the key physiological changes that occur during such brief meditation sessions?
+Fardeen Khan opens up about losing 25 kilos
+Fardeen Khan
+Ber vs Jamun: Which should you eat in summer?</h2>
+
+<hr></div>
+            <div class="language-options"><img src="add1.jpeg">
+            </div>
+          </div>
+                <div class="container">
+            <div class="left-sidebar">
+                <img src="top1.avif" width="300px"><br>
+                <p style="font-size: medium;"> week after India announced its trade deal with the UK amid tariff threats from US President Donald Trump, the European Union and India have made significant progress in their trade talks between May 12 and May 17, closing as many as five chapters including the challenging area of intellectual property rights (IPR), a status report released Tuesday by the EU said.
+
+The conclusion of the UK deal is an “important factor” in Delhi’s trade negotiations with Brussels, a government official told The Indian Express, since UK’s exit from the EU single market in 2020 had given rise to tensions between London and Brussels over new checks, paperwork and delays that particularly affected goods trade between the two partners.</p>
+            </div>
+            <div class="main-content">
+                <img src="top5.avif" width="600px"><br>
+                <h3>India football head coach Manolo Marquez said that the dressing room atmosphere had the air of a funeral after the Blue Tigers lost 1-0 to Hong Kong in the Asian Cup qualifiers on Tuesday. The Spaniard, however, remained optimistic that they will be able to qualify for the 2027 Asian Cup.
+
+India conceded in the fifth minute of stoppage time on Tuesday, slumping to a second straight goalless outing in Asian Cup qualifiers, jeopardising their chances of qualifying for the Asian Cup.
+
+“…we are not very happy. We are sad. The dressing room is like a funeral, practically. But I still think that India has possibilities to qualify,” Marquez said.</h3>
+                </div>
+                <div class="advertisement">
+                    <h1>Apple researchers show how popular AI models ‘collapse’ at complex problems</h1>
+                    <img src="apple.webp" width="300px"><br>
+                    <h2>A new research paper by a group of people at Apple has said that artificial intelligence (AI) ‘reasoning’ is not all that it is cracked up to be. Through an analysis of some of the most popular large reasoning models in the market, the paper showed that their accuracy faces a “complete collapse” beyond a certain complexity threshold.
+
+T.</h2>
+                </div>
+            </div><hr>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>News Website</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container" style="background-color: rgb(0, 0, 15);color: white;">
+        <div class="top-categories" style="flex-direction: column;">
+          <table>
+            <h2>TOP CATEGORIES</h2><hr>
+            <td style="width: 300px;">
+            <ul>
+                <li>Explained News</li><br>
+                <li>Delhi News</li><br>
+                <li>Health News</li><br>
+                <li>latest news</li><br>
+                <li>mobiles&tabs</li></td>
+                
+            </ul>
+            <td style="width: 300px;">
+              <ul><br>
+                <li>political news</li><br>
+                <li>pune news</li><br>
+                <li>india news</li><br>
+                <li>cricket news</li><br>
+                <li>foof&wins</li><br>
+              </ul>
+            </td>
+            <td style="width: 300px;">
+                <ul><br>
+                    <li>latest opticals</li><br>
+                    <li>bangalore news</li><br>
+                    <li>sports news</li><br>
+                    <li>tech review</li><br>
+                    <li>election news</li><br>
+                </ul>
+            </td>
+            <td>
+                <ul><br>
+                    <li>mumbai news</li><br>
+                    <li>bollywood news</li><br>
+                    <li>lifestyle news</li><br>
+                    <li>gadgets news</li><br>
+                    <li>fitness news</li><br>
+                </ul>
+            </td></table>
+            <table>
+                <h2>Trending news</h2><hr>
+                <tr>
+                    <td style="width: 300px;">
+                        <ul><br>
+                            <li>stock analysis</li><br>
+                            <li>web stories</li><br>
+                            <li>log angeles protests</li><br>
+
+                        </ul>
+                    </td>
+                    <td style="width: 300px;">
+                        <ul><br>
+                        <li>live cricket score</li><br>
+                        <li>indian express live</li><br>
+                        <li>delhi news</li>
+                        </ul>
+                    </td>
+                    <td style="width: 300px;">
+                        <ul><br>
+                            <li>screen videos</li><br>
+                            <li>horoscope today</li><br>
+                            <li>NEET Result 2025</li><br>
+                            </ul>
+                            </td>
+                            <td>
+                                <ul>
+                                    <li>international videos</li><br>
+                                    <li>UPSC CSE Prelims 2025 Result</li><br>
+                                    <li>Covid-19 India Cases 2025</li><br>
+                                </ul>
+                            </td>
+                </tr>
+            </table>
+            <table>
+                <h2>LATEST STORIES</h2><hr>
+                <tr>
+                     <td style="width: 300px;">
+                     <ul><br>
+                       <li>Today in Politics: Congress to make people aware of Rahul’s ‘fixing polls claims’ with processions across Maharashtra</li><br>
+                       <li>When is Puri Jagannath Rath Yatra 2025 starting: Know the date, muhurat timings, and significance</li><br>
+                       <li>Drone warfare came home during Op Sindoor. Where does India stand?</li><br>
+                       <li>Anubhav Sinha writes: Where cinema belongs</li><br>
+                     </ul>
+                    </td>
+                  <td style="width: 300px;">
+                  <ul><br>
+                    <li>Chandigarh PG medical seats to stay with all-India pool, says High Court</li><br>
+                    <li>Into his second year, past Pahalgam, could Modi 3.0 fashion a new politics?</li><br>
+                    <li>Brian Wilson, Beach Boys visionary leader and summer’s poet laureate, dies at 82</li><br>
+                    <li>Family on tour for Eid, engineer living in Doha: The 5 Keralites killed in Kenya road mishap</li><br>
+                    </ul>
+                    </td>
+                     <td style="width: 300px;">
+                     <ul><br>
+                        <li>Today in Politics: Congress to make people aware of Rahul’s ‘fixing polls claims’ with processions across Maharashtra</li><br>
+                        <li>When is Puri Jagannath Rath Yatra 2025 starting: Know the date, muhurat timings, and significance</li><br>
+                        <li>Drone warfare came home during Op Sindoor. Where does India stand?
+</li><br>
+                        <li>Anubhav Sinha writes: Where cinema belongs</li><br>
+                        </ul>
+                        </td>
+                        <td style="width: 300px;">
+                     <ul><br>
+                        <li>PM didn’t want the Ram temple to become temple of the north…(his message was) develop Ayodhya so that it has cosmopolitan features: Nripendra Misra</li><br>
+                        <li>33% seat reservation: Govt looks at quota for women in next Lok Sabha polls</li><br>
+                        <li>In Bhopal, a bridge with 90-degree turn draws criticism, minister says will look into it</li><br>
+                        <li>Trump can no longer detain Columbia University student Mahmoud Khalil, US judge rules</li><br>
+                        </ul>
+                        </td>
+                </tr>
+            </table><hr>
+            <table>
+                <tr>
+                    
+                    <td>
+                        <h3>FOLLOW US </h3>
+                        <img src="icon-facebook.svg"style width="40px">
+                        <img src="x-footer (1).svg" style="width: 40px;">
+                        <img src="icon-linkedin.svg" width="40px;">
+                        <img src="icon-instagram.svg" width="40px;"><hr>
+                        <h3>DOWNLOAD APPS</h3>
+                
+                        <img src="icon-android.svg" width="40px;">
+                        <img src="icon-apple.svg" width="40px;"><hr>
+                        <h3 style="color: rgba(128, 128, 128, 0.568);">Newsguard</h3>
+                       <h4> <img src="newsguard-check.svg" style="height: 20px;">   The Indian Express website has<br> been rated GREEN for its credibility<br> and trustworthiness by Newsguard,<br> a global service that rates news<br> sources for their journalistic standards.</h4>
+                    </td>
+                
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                   <td style="width: 300px;">
+                        <h2>Express Group</h2>
+                        The Indian Express<br><br>
+                        The Financial Express<br><br>
+                        Loksatta<br><br>
+                        Jansatta<br><br>
+                        inUth<br><br>
+                        IE Choice<br><br>
+                        Newsletters<br><br>
+                        Ramnath Goenka Excellence in <br>Journalism Awards<br><br>
+                        Careers<br>
+                   </td>
+                   <td style="width: 300px;">
+                ieTamil.com <br><br>
+                 ieBangla.com<br><br>
+                ieMalayalam.com <br><br>
+                ieGujarati.com <br><br>
+                 IE Education<br><br>
+                The ExpressGroup <br><br>
+26/11 Stories of Strength<br><br>
+Light House Journalism
+                   </td>
+                   <td>
+                    <h3>Quick Links</h3>
+                    T&C<br><br>
+Privacy Policy<br><br>
+Advertise with Us<br><br>
+Brand Solutions<br><br>
+Contact Us<br><br>
+Subscribe<br><br>
+Statutory provisions on reporting<br> (sexual offenses)<br><br>
+This website follows the DNPA’s code of conduct<br><br>
+CSR
+                   </td>
+                </tr>
+            </table><hr>
+            <div>
+                <h4>Copyright © 2025 The Indian Express [P] Ltd. All Rights Reserved</h4>
+            </div>
+        </div>
+    
+        </div>
+    </div>
+</body>
+</html>
+             
+ 
+</body>
+</html>
