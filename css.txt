@@ -1,0 +1,153 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.top-bar {
+    background-color: #f0f0f0;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.date, .edition {
+    font-size: 14px;
+}
+
+.language-options select {
+    padding: 5px;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+nav li {
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #337ab7;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.left-sidebar {
+    width: 20%;
+   
+    padding: 20px;
+}
+
+.main-content {
+    width: 60%;
+    padding: 20px;
+}
+
+.right-sidebar {
+    width: 20%;
+    /* Add styles for right sidebar */
+}
+
+.news-headlines h2 {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.advertisement {
+    padding: 20px;
+    margin-top: 20px;
+}
+
+.advertisement h2 {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.advertisement button {
+    background-color: #337ab7;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+ a{
+    text-decoration: none;
+    color: black;
+    margin-left: 25px;
+    
+ }
+        .a{
+            color: black;
+            background-color: white;
+            padding: 10px;
+            text-decoration: none;
+        }
+        .top-bar
+        .b1{
+          background-color: rgb(3, 3, 36);
+        }
+        /* General Styling */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.menu {
+  background-color: #333;
+  color: #fff;
+  padding: 200px;
+}
+
+.menu ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.menu li {
+  display: inline-block;
+  margin-right: 20px;
+}
+
+.menu a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.trending-news, .latest-stories {
+  margin-left: 100px;
+}
+
+.trending-news h2, .latest-stories h2 {
+  margin-top: 0;
+}
+
+.trending-news ul, .latest-stories ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.trending-news li, .latest-stories li {
+  margin-bottom: 10px;
+}
+
+.trending-news a, .latest-stories a {
+  text-decoration: none;
+  color: #337ab7;
+}
+
+.trending-news a:hover, .latest-stories a:hover {
+  color: #23527c;
+}
